@@ -2,8 +2,6 @@ __pycache__/
 *.pyc
 
 data/*.csv
-data/*.npz
-*.npz
 
 venv/
 .venv/
